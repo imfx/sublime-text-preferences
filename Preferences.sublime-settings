@@ -1,0 +1,48 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_sidebar_if_opened": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Pro (Filter Machine) (SL).tmTheme",
+	"detect_indentation": true,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"font_face": "Source Code Pro",
+	"font_size": 14,
+	"gutter": true,
+	"highlight_line": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"select2"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 0,
+	"material_theme_accent_graphite": true,
+	"material_theme_arrow_folders": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_disable_folder_animation": true,
+	"material_theme_disable_tree_indicator": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "Monokai Pro (Filter Machine).sublime-theme",
+	"toggle_full_screen": true,
+	"translate_tabs_to_spaces": false,
+	"update_check": false,
+	"use_simple_full_screen": true,
+	"wide_caret": true,
+	"word_wrap": true
+}
