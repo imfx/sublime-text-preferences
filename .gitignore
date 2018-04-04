@@ -4,3 +4,4 @@
 !.gitignore
 !README.md
 !Preferences.sublime-settings
+!Package Control.sublime-settings

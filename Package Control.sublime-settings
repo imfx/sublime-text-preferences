@@ -1,0 +1,75 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"urllib",
+			"curl",
+			"wget"
+		],
+		"osx":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Alignment",
+		"AutomaticFullscreen",
+		"CodeComplice",
+		"Color Highlighter",
+		"Colorsublime",
+		"Comment-Snippets",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Emmet",
+		"Exclude Paths",
+		"Extract Sublime Package",
+		"Git",
+		"GotoDocumentation",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Jekyll",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Less2Css",
+		"Local History",
+		"LoremIpsum",
+		"Modific",
+		"Package Control",
+		"PHP Getters and Setters",
+		"PhpDoc",
+		"PHPSnippets",
+		"Sass",
+		"SassBuilder",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Swift",
+		"Theme - Monokai Pro",
+		"Theme - Spacegray",
+		"Vuejs Complete Package"
+	],
+	"repositories":
+	[
+		"https://github.com/bnlucas/SassBuilder",
+		"https://github.com/bnlucas/SassBuilder",
+		"https://github.com/bnlucas/SassBuilder",
+		"https://github.com/SublimeLinter/SublimeLinter-php",
+		"https://github.com/SublimeLinter/SublimeLinter"
+	]
+}
